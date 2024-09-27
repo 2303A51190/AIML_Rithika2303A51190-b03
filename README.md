@@ -16,4 +16,6 @@ LAB-7(1)
 https://github.com/2303A51190/AIML_Rithika2303A51190-b03/blob/main/LAB_7.ipynb
 LAB-7(2)
 https://github.com/2303A51190/AIML_Rithika2303A51190-b03/blob/main/LAB_7(II).ipynb
+LAB-8
+https://github.com/2303A51190/AIML_Rithika2303A51190-b03/blob/main/LAB_8.ipynb
 
